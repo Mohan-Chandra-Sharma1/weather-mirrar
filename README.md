@@ -1,23 +1,28 @@
-# Getting Started with Create React App
+Demo - Deployed over Github Pages
+https://github.com/Mohan-Chandra-Sharma1/weather-mirrar.git
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Full development Tutorial
 
-## Available Scripts
 
-In the project directory, you can run:
+APIs Used
+Open Weather APIs
 
-### `npm start`
+https://weather-mirrar.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+API Info
+Method: GET
+URL: https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}
+Icons & Font -
+Icons: From font-icon
+Font Link: <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Libraries used
+styled-components
+axios
+react-scripts
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Whom do I talk to?
+Mohan chandra sharma
 
 ### `npm run build`
 
